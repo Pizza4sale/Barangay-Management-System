@@ -1,0 +1,14 @@
+{
+    "name": "nitro/user",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ming-desu",
+            "email": "joshuaming.jm@gmail.com"
+        }
+    ],
+    "require": {
+        "adyen/php-api-library": "^14.0"
+    }
+}
